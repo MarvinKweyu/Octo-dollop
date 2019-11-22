@@ -1,4 +1,6 @@
-# vue_crash_todolist
+# Octo-Dollop
+
+A Todo list implemented in VueJs
 
 ## Project setup
 ```
@@ -20,5 +22,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
